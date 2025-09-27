@@ -8,4 +8,4 @@
 - Nginx, PM2, AWS EC2
 
 ## 🌐 Connect with me
-[LinkedIn](www.linkedin.com/in/chitransh-prasanna-3b86b6280/) 
+[LinkedIn](https://www.linkedin.com/in/chitransh-prasanna-3b86b6280/) 
